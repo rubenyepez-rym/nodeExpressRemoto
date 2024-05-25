@@ -18,6 +18,6 @@ class AlumnoController{
         res.json (await Alumno.listar());
 
     }
-//29:51 esta es mi prueba
+//29:51 esta es mi prueba hecha en remoto
 }
 module.exports=new AlumnoController;
