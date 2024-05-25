@@ -18,6 +18,6 @@ class AlumnoController{
         res.json (await Alumno.listar());
 
     }
-//29:51
+//29:51 esta es mi prueba
 }
 module.exports=new AlumnoController;
